@@ -11,7 +11,7 @@ A content-based movie recommender that suggests similar movies and shows their p
 ## How to Run Locally
 
 1. Clone the repository
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/azhanj21004-maker/What-Z-Next-.git
 
 2. Install dependencies
    pip install -r requirements.txt
